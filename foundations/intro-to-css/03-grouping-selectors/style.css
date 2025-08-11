@@ -1,0 +1,13 @@
+.botão{
+    font-size: 28px;
+    font-family:'Times New Roman', Helvetica, sans-serif;
+}
+
+#botão1 {
+    background-color: black;
+    color: white;
+}
+
+#botão2 {
+    background-color: yellow;
+}
